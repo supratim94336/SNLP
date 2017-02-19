@@ -1,0 +1,1682 @@
+/usr/bin/python /Users/Supra/PycharmProjects/untitled/.idea/Tokenizer.py
+set([u'', u'mochten', u'gesehen', u'beobachtet', u'gewiss', u'dazu', u'auf', u'zuckte', u'aus', u'Uhr', u'Platz', u'gehabt\nDas', u'vergessen', u'neun', u'gepunktetes', u'neue', u'letzter', u'gerade', u'Baby', u'fur', u'schnaubte', u'haben', u'geworden', u'Wohnzimmer', u'Mitternacht', u'verschwunden', u'feiern\nUnd', u'Godrics', u'verruckte', u'aufzuwachen', u'vernunftige', u'Diese', u'angerufen', u'geheimnisvolle', u'neu', u'Spur', u'Zeug', u'dort', u'drei', u'nicht', u'Horer', u'\nMein', u'ruhrte\nAn', u'Wetteransager', u'Damen', u'verbrachte', u'Sehr', u'Nachrichten', u'Umhangen', u'Harvey', u'reichen', u'Dadalus', u'Gartenmauer', u'erlahmender', u'Stau', u'einiges', u'senkte', u'Jung', u'Licht', u'\nAn', u'Jungen\nDie', u'Moment', u'schlieen', u'einigen', u'arme', u'truben', u'Dinge', u'wars', u'bringt', u'Person', u'scharfem', u'sicher', u'warf', u'ware', u'gefeiert', u'gewaltig', u'Fingern', u'wussten', u'weiteres', u'Hollow', u'Merk', u'im', u'breitbeinig', u'gegen', u'klammerten', u'geben', u'wirklich', u'Junge', u'tropfnassen', u'studierte', u'Jetzt', u'ent', u'heien', u'Farbe', u'tintenfarbenen', u'anderen', u'anderem', u'erwahnte', u'lag', u'Himmels', u'Bohrmaschinen', u'eingesehen', u'spater', u'las', u'\nDumbledore', u'herausholen', u'Recht', u'Immer', u'Jungen', u'Gerucht', u'breit', u'Hacken', u'Antwort', u'Wurde', u'schone', u'Katzen', u'Herz', u'versuchte', u'Herr', u'donnernd', u'Mittagspause', u'deiner', u'kalten', u'wenn', u'mindestens', u'Gonagall', u'Seite', u'Schlafzimmerfenster', u'ihn', u'sammelten', u'kletterte', u'Plop', u'erweckte', u'danach', u'regte', u'zerbrochen', u'Probleme\nNein', u'vorsichtiger', u'hinuberspahen', u'diesem', u'diesen', u'durcheinander', u'dieser', u'dieses', u'nirgends', u'Dumbledore\nAlbus', u'unbedingt', u'Wort', u'Burgersteig', u'deutete', u'neunten', u'ist', u'mussen\n13\nIn', u'Erzurnt', u'Gedanke', u'einer', u'eines', u'umarmte', u'lauter', u'zwangte\nKeiner', u'einen', u'Mundern', u'einem', u'aufschnappen', u'verstecke', u'tot', u'Verkleidung', u'ganze', u'riesiges\n19\nMotorrad', u'nahm', u'Fue', u'Ganz', u'ihren', u'vieles', u'Bauchhohe', u'schlielich', u'gingen', u'riesigen', u'anderte', u'drehten', u'deren', u'Wenn', u'gekleideter', u'leuchteten', u'heutige', u'bin\nNein', u'Tochter', u'entsetzt', u'her\nHab', u'Mochten', u'Woran', u'kleine', u'zuckten', u'die\nHose', u'herauskommen', u'Gegenteil', u'Brille', u'dumme', u'Macht', u'Lufte', u'Weile', u'Jahre', u'zuruck', u'Harrys', u'Schild', u'hieen', u'hineingeraten', u'sehen', u'Bis', u'langfuhr', u'da', u'belegter', u'Augen\nSchhhh', u'du', u'einmal', u'anzu', u'mitteilen', u'nichts', u'umgestoen', u'besa', u'nur', u'nun', u'schreiben', u'erleichterter', u'ublichen', u'bemerkte', u'mus', u'Fukick', u'weiter', u'weiten', u'Nahe', u'Muggels', u'Nichtsnutz', u'diese', u'wo', u'geschutzten', u'uns', u'sagte', u'kommen', u'Milchflaschen', u'Mr\nDursley', u'und', u'mochte', u'ernst', u'einzusetzen\nEin', u'Sekunden', u'sahen', u'struppigen', u'Laune', u'Unter', u'Grund', u'wichtige', u'Vogelkundler', u'Dumbledore', u'fest', u'nachdachte', u'rausperte', u'gewachsen', u'schnauzte', u'wusste', u'Schwester', u'Wange', u'wenig', u'breites', u'gelernt', u'in', u'Sekretarin', u'nachste', u'ordentlich', u'Spitzentaschentuch', u'durch', u'Zeit', u'Potters', u'nie', u'Schlaf', u'Rund', u'Bristol', u'Neueste', u'Bevor', u'ihrem', u'Eule', u'stammelte', u'gekommen', u'ihrer', u'sprechen', u'kennen\nGenau', u'bleiben\nKonnen', u'andern', u'piesacken', u'anders', u'wahr', u'sagten', u'Stimme\nEndlich', u'Blicke', u'hab', u'elf', u'komisch', u'Diggel', u'Wutanfall', u'herumtreiben', u'offnen', u'hat', u'wissen', u'schlief', u'unter', u'\nMr', u'James', u'groen', u'beunruhigen', u'dankbar', u'hierher', u'groes', u'ausgerechnet', u'Krafte', u'unten', u'gesichtet', u'funfmal', u'Buschel', u'Vogel', u'mit', u'Arm', u'sturmte', u'bereit', u'dauernd', u'Nase\nO', u'Planeten', u'Dudleys', u'Haferbrei', u'Name', u'ich', u'Punkt', u'nachsten', u'grauen', u'fruh', u'ahneln', u'gefielen', u'mehrere', u'vielleicht', u'Ausmacher', u'geschrien', u'verschwindet', u'gefunden', u'Besseren\nHastig', u'zur', u'Kopfrucken', u'Sammelbuchse', u'zum', u'konnen', u'aber', u'Schlafen', u'begreifen\nProfessor', u'ahm', u'Geschichte', u'Stattdessen', u'holen\nDie', u'erhoben', u'trostender', u'Backer', u'Hand', u'Jemand', u'Ende', u'gib', u'was', u'war', u'dannen\nMr', u'Stimme\nProfessor', u'Fenster', u'trug', u'fort', u'muss', u'geheimnisvollen', u'verdrehen', u'Vol', u'harten', u'Sir', u'Einzige', u'vorbeischossen', u'Sie', u'wollten', u'na', u'Schmatz', u'blinzelte', u'verstehen', u'mit\nSie', u'legte', u'dies', u'Hund', u'scharf', u'Wie', u'aufgehalten', u'Ansammlung', u'Autotur', u'Wir', u'bisschen', u'Richtung', u'Dundee', u'sollte', u'namens', u'sieht', u'selbst', u'Suigkeiten', u'herzlich', u'rot', u'\nJa', u'meisten', u'Buro', u'Ihnen', u'deswegen', u'Das', u'Bahn', u'vorbeigekommen', u'Wande', u'ihnen', u'fernzuhalten', u'Hochstuhl', u'hatten', u'McGuffin', u'Taschen', u'hinunter', u'Tat', u'bullig', u'die', u'grote', u'naturlich', u'Tag', u'gut', u'Petunia', u'sogar', u'zusammenprallte\nVerzeihung', u'Orange', u'verhalten', u'Morgen', u'zwolf', u'daruber', u'hinauszustellen', u'weitere', u'Lenkrad', u'einzigen', u'verspatet', u'Mc', u'Darin', u'Mn', u'lange', u'Knies', u'vorsichtig', u'Mt', u'erreicht', u'Mr', u'laut\nDie', u'Hagrid', u'alte', u'dich', u'belustigen', u'7\nmer', u'Feiern', u'hasslicher', u'keineswegs', u'bog', u'bevor', u'behauptete', u'herausfinden', u'Atem\nLily', u'bestimmt', u'lesen', u'Sehen', u'erklaren', u'vernunftig\nSie', u'Telefongespra', u'daneben', u'konnte', u'eulenfreien', u'versucht', u'Klungel\nMrs', u'Mauer\n18\nwirklich', u'versuche', u'unsere', u'gestern', u'Bartes', u'Vetter', u'ihre', u'stolz', u'Lippen', u'Feuerzeug', u'noch', u'flogen', u'vertrauen\nIch', u'Telefon', u'Lacheln', u'Schnecke', u'Mit', u'Schlielich', u'uberkam\nihn', u'Voldemorts', u'Krapfen', u'Zitronenbrausebonbon', u'Jedoch', u'mal', u'Vorwurf', u'man', u'anzogen', u'so', u'unterwegs', u'Plotzlich', u'sa', u'denken', u'piepsiger', u'immer', u'Jah', u'still', u'Das\n6\nmusste', u'geschaut', u'gebracht', u'nirgendwo', u'Kiste', u'Einbildungskraft', u'beim', u'eilte', u'halb', u'recken', u'lieber', u'blauen', u'Schwarme', u'Lichter', u'Eine', u'Einbiegung', u'kann', u'hohen', u'Suche', u'Stadtrand', u'entfernte', u'es', u'er', u'Jagen', u'blo', u'scharfaugige', u'tauschte\nMr', u'Leintuchbundel', u'Abendessen', u'Keiner', u'hinwegflog', u'auch', u'Stimmen', u'keinen', u'Beine', u'normalerweise', u'glaubte', u'Black', u'unertraglich', u'getigerte', u'Namen\n11\nPotter', u'doppelt', u'flackerte', u'Bohrern\nIn', u'herausputzten', u'Probleme', u'blickte', u'nehmen', u'Nummer', u'fischte', u'konnen\nDie', u'kratzigen', u'krumm', u'erzahlt', u'bemerken', u'merkwurdigen', u'anvertrauen', u'auf\nVvverzeihung', u'Leute', u'Schwanz', u'festgenagelt', u'neben', u'geht', u'Dursleys', u'sah', u'alles', u'traurig', u'dass', u'geborgt', u'Partys', u'Hals', u'besserte', u'zog', u'Beim', u'all', u'Vorzeichen', u'normal', u'Angst', u'sprach', u'machte', u'sehr', u'Brausebonbon\n15\nEin', u'Wohnzimmerfenster', u'Meldung', u'Wochen', u'Tuscheln', u'solche', u'Weg', u'fassen', u'Ruck', u'Kent', u'offnete', u'rutschte', u'setzt', u'bringen', u'verschwunden\nEine', u'gehort', u'Wo', u'dick', u'gebrochen', u'wissen\nProfessor', u'Turschwelle', u'mys\n10\nterios', u'Nervos', u'Tassen', u'Eiszapfen', u'Schokoladenkringel', u'schwieg\nWas', u'dasselbe', u'schwer', u'sollten', u'Schrei\n22\nihn', u'regnerische', u'uberall', u'gleiten', u'verwirrt', u'behutsam', u'ruckwarts', u'dachte', u'Ecke', u'landete', u'Sicher', u'kommen\nAls', u'flogen\nDumbledore', u'offensichtlich', u'verzeih', u'Boden', u'Gluck', u'irgendeinem', u'Stolpern', u'tun', u'ja', u'Ihr', u'darin', u'Sir\nHagrid', u'sind\nSie', u'blinzeln', u'zusammenzureien', u'stimmt', u'streifte', u'Unerhortes', u'muskelbepackten', u'oder\nWie', u'Kuss', u'Sache', u'Dursley', u'gewahlt', u'Bett', u'oder', u'Bohrer', u'huschten', u'Haares', u'Ferne', u'14\nIch', u'Schnitt', u'das\nEin', u'tuschelte', u'ein', u'beugte', u'Besten', u'dafur', u'Umhangs', u'Albus', u'schwarzes', u'Mund', u'Wenigstens', u'Feste', u'Unbehagen', u'aufkreuzen', u'dabei', u'Innentasche', u'berichtet', u'macher', u'Dass', u'sagen\nMrs', u'machen', u'In', u'entschlossen', u'berichten', u'bewegte', u'Aktentasche', u'Abend', u'funkelnd', u'McGonagall\nMit', u'umsichtig', u'sprang', u'niedrige', u'konnten', u'4', u'stattdessen', u'Versammlungen', u'drehte', u'neuen', u'neues', u'Mann', u'unglaublich', u'Narbe', u'verschiedene', u'versprechen\nMr', u'Luft', u'entfernten', u'besser', u'zugeknallt', u'meinen', u'kamen', u'festen', u'Parkplatz', u'wartete\nBildete', u'seine', u'\nUnd', u'Dutzend', u'Schniefen', u'furchtete\nSie', u'habe', u'wurden', u'Dumbledores', u'ob', u'stand', u'Wahrend', u'irgendeine', u'Meinung', u'knipste', u'Stirn', u'gahnte', u'her', u'Menschen', u'strich', u'gesagt', u'los', u'Zweck', u'starr', u'stellte', u'an\nNun', u'schluckte', u'hinfiel', u'Nummer\n8\nvon', u'mich', u'wiederholte', u'gehort\nja', u'Vorbeigehen', u'ihresgleichen', u'stattfanden', u'keine', u'erinnern', u'wurdiges', u'am', u'demort', u'an', u'Wissen', u'pfui', u'beobachtete', u'Erst', u'uns\nDumbledore', u'Ohrenschutzer\nProfessor', u'betupfte', u'Blitz\nIst', u'etwas', u'dunkel', u'fuhrte', u'Wagen', u'trommelte', u'heftig', u'notwendig', u'summte', u'Eulen', u'Mauer', u'bewarf', u'neigt', u'Bucher', u'Schilder', u'Stille', u'alt', u'als', u'waren', u'hoffte', u'langst', u'Narben', u'\nWie', u'Einzigen', u'wohin', u'Voldemort', u'Sohn', u'haben\nMr', u'steckten', u'darunter\nHagrid', u'funkelnde', u'gehen\n21\nJaow', u'halbmondformigen', u'hervor', u'Robe', u'ohne', u'Jedem', u'zweimal', u'geandert', u'aus\nWoher', u'Gabel', u'dagegen', u'nanu', u'umarmt', u'undursleyhaft', u'fragte', u'aus\nSchhhh', u'vertreten', u'Autoschlange', u'hast', u'ver', u'Schwester\nNein', u'murmelte', u'besitzen', u'Jahren', u'Delphinbabys', u'auszusprechen\nDas', u'geschnittenen', u'vorbeifliegen\nUm', u'Gurtel', u'Auf', u'weniger', u'Aus', u'durchdringenden', u'beste', u'zu\nKonnte', u'einbog', u'Beruhrung', u'sorgfaltig', u'standen', u'dieselbe', u'hinu\n12\nbergeglitten', u'verdeckten', u'So', u'knipsen', u'verlieren', u'der', u'des', u'dem', u'den', u'Brillenglasern', u'Gegenden', u'wieder', u'sagen\n5\nsollten', u'leisen', u'bewundernd', u'mehr', u'etlichen', u'Dumbledore\nEs', u'Warum', u'stie', u'aufwachst', u'kkkann', u'werfen', u'gegangen', u'Schlingel', u'Nascherei', u'Karten', u'Gartenzaun', u'einschlief', u'kein', u'Armen', u'Nachmittag', u'Haustur', u'McGonagall\nJa', u'behaupte', u'mich\nfragst\nO', u'Krawatte', u'Alter', u'alle', u'Anblick', u'auftauchte', u'sammengebunden', u'genannt', u'Grobritannien', u'nutzlich', u'Schauer', u'dasitzen', u'alter', u'musste', u'Bad', u'anstelle', u'zitternder', u'oberhalb\n20\ndes', u'krauselte', u'Jaja', u'gewartet', u'Aber', u'mussten', u'Absatz', u'Potter', u'Selbst', u'vorbeigingen', u'griff', u'nein', u'hinuber', u'Straenlaterne', u'Kopfe', u'unvorsichtig', u'streckte', u'Gedankenverloren', u'goldene', u'hoffentlich', u'endlich', u'dunn', u'Muster', u'Flusterern', u'Und', u'vergrub', u'schwerer', u'Male', u'gequalt', u'Schritt', u'bring', u'ertragen', u'blieb', u'Haar', u'Ziffern', u'Knoten', u'Vordereingang', u'Mannes', u'violetten', u'Es', u'Er', u'netten', u'Drohnen', u'wagen', u'uberlegte', u'nach', u'Unsinn', u'Sirius', u'nennen', u'Ubrigens', u'Tante', u'mitbekommen', u'uberquerte', u'Kein', u'Sessel', u'schon', u'Jemandem', u'Nun', u'dann', u'flusterten', u'blond', u'zelte', u'besann', u'Rucken', u'Seine', u'Mutter', u'Nachrichtensprecher', u'wirklichen', u'Im', u'Strahnen', u'silbernes', u'verjagte', u'begegnete', u'kam', u'silbernen', u'Zeiger', u'reden', u'Zuschauer', u'meine', u'beiden', u'Geruchte', u'ausstehen', u'Hagrid\nEr', u'miteinander', u'konzentrieren', u'aussehender', u'nehme', u'Gedanken', u'umherfliegen', u'Heute', u'hielt', u'Ja', u'Minuten', u'mein', u'auftauchen', u'hie', u'tot\nDumbledore', u'hin', u'alledem', u'uberhaupt', u'quadratisch', u'Nachbarins', u'Zukunft', u'Einfahrt', u'Sorge', u'klopfte', u'Lederstiefeln', u'Beruhmt', u'Glaser', u'zornige', u'sen', u'dumm', u'einfach', u'sei', u'ungewohnlich', u'schwoll', u'sonst', u'klug', u'Kind', u'Motorrad', u'Dann', u'Katze', u'musterte', u'jedes', u'Nein', u'Uberraschung', u'peinigen', u'Dienstag', u'Lichtballe', u'16\nuber', u'zusammen', u'Was', u'War', u'fauchte', u'weder', u'steif\nWie', u'Auch', u'Tage', u'Ligusterweg', u'Plan', u'Auffahrt', u'gluckste', u'Schlitzen\nEinen', u'gar', u'Erstes', u'funf', u'meinte', u'heute', u'schwinden', u'gab', u'richten', u'sehen\nSie', u'Luften', u'smaragdgrunen', u'Nach', u'steckte', u'Allerorten', u'Muggelsachen', u'vom', u'von', u'wischte', u'dreinblickenden', u'Arbeit', u'vor', u'Ahm', u'Stock', u'recht', u'wonach', u'Nerven', u'warum', u'lie', u'langweiligste', u'holte', u'umgebracht', u'verboten', u'Onkel', u'Scheinwerfer', u'Namen', u'rechts', u'hinaus\nAn', u'Mulleimerdeckel', u'wahrend', u'prachtigeren', u'Hande', u'finden', u'sanft', u'ungewohnlicher', u'danke', u'anstarrte', u'der\nRiese', u'Vorgarten', u'bin', u'schwieg', u'Oh', u'Die', u'Uberall', u'steif', u'erwarten', u'Heulen', u'bis', u'Schnurrbart', u'vermute', u'rechten', u'was\nEin', u'schien', u'helllichten', u'Finger', u'tiefes', u'Niemand', u'hinter', u'Bundel', u'ernsten', u'tiefem', u'offenbar', u'gewohnlich', u'Tages', u'rief', u'herauskame', u'Straenlaternen', u'hinzuschauen', u'lachelte', u'Freuen', u'Wichtiges', u'weit', u'hinwegflogen', u'weil', u'Duweit', u'Pack', u'Bart', u'darauf', u'unruhigen', u'Gesicht', u'allerdings', u'Menge', u'Abschiedskuss', u'verdrangt', u'Elf', u'gewesen', u'gingen\nverlor', u'wissend', u'verletzter', u'Dumbledore\nIch', u'oder\nIch', u'willen', u'schlich', u'dalag', u'leise', u'fast', u'Geheimnis', u'richtige', u'besonders', u'Umhangtasche', u'sein\nVerargert', u'wurde\nDoch', u'Straenkarte', u'Herren', u'Grunde', u'um', u'kuhl', u'sie\nMein', u'uber', u'Ich', u'verlie', u'Himmel', u'hatte\nUnd', u'Schnallenstiefel', u'bemerkt', u'Eingangstur', u'Eulenschauer', u'Arme', u'ausladenden', u'neigten', u'beide', u'wollte', u'beruhmt', u'gro', u'Nacht', u'Mal', u'Man', u'Zur', u'starrte', u'wohl', u'vollig', u'walzte', u'tagsuber', u'Straen', u'schauten', u'langsam', u'lang', u'verengten', u'gehen', u'An', u'Grinsen', u'niedergegangen', u'ganz', u'Besonderes', u'Jim', u'toten', u'setzte', u'schwatzte', u'Larm', u'wohnen', u'geschehen', u'Familie', u'Leben', u'Schon', u'auer', u'Waldkauz', u'Stimme', u'ging', u'gesessen', u'Zitronenbrausebonbons', u'Tigerkatze', u'verschwunden\nDumbledore', u'Statt', u'Howard', u'Brief', u'sonderbarer', u'Kleiner', u'Augen', u'zu', u'erlosch', u'schwang', u'einige', u'Aufmachung', u'Professor', u'sind', u'anziehen\nDabei', u'Schultern', u'ersten', u'Pomfrey', u'wie', u'geschah', u'geriet', u'Abendnachrichten', u'willkommen', u'Legende', u'wir', u'Harchen', u'geliehen', u'Brise', u'che', u'nobel', u'quer', u'erlaubte', u'Statue', u'Land', u'heit', u'Nase', u'Madam', u'hatte', u'nichts\nAls', u'Zwolfmal', u'dumpfer', u'Jim\nNun', u'feiert', u'links', u'Hecken', u'Regens', u'schmeicheln', u'zwischen', u'feiern', u'Muggel', u'Fremder', u'Tute', u'einzubilden', u'ihr\nWas', u'sie', u'Taschentuch', u'erkennen\nViel', u'fuhr', u'klar', u'vergnugt', u'Mrs', u'wette', u'halten', u'paar', u'Kleidung', u'drangte', u'schrie', u'argern', u'Dudley', u'lautlos', u'ungefahr', u'erzahlte', u'hoch', u'durchstoberte', u'wundern', u'Bonbons', u'McGonagall', u'freudigen', u'hinwegschwirrten', u'Sinn', u'Sind', u'hat\nOffenbar', u'seltsam', u'verschwand', u'doch', u'das', u'Halbmonde', u'McGonagall\nDen', u'gewohnlicher', u'stockte', u'trat', u'HarryPotterTag', u'gewohnlichen', u'zeigte', u'kommt', u'ziemlich', u'Obwohl', u'guter', u'solchen', u'solchem', u'Ruckspiegel', u'werden', u'rei', u'daheim', u'Direktor', u'suchte', u'glanzender', u'hunderte', u'kaum', u'ansah\nUnd', u'deshalb', u'dunkle', u'ihr', u'kehrte', u'leben\nDas', u'Sanft', u'damit', u'ihm', u'herstellte', u'entlang', u'nickte', u'Vollig', u'gedampfte', u'glauben', u'Firma', u'Frau', u'Backsteinmauer', u'Paar', u'Gewohnheiten', u'grummelte', u'befurchtet', u'brachte', u'Hause', u'morgendlichen', u'bei', u'irgendetwas', u'ungeduldig', u'seinem', u'seinen', u'blin', u'aufschlugen', u'linken', u'barthaarigen', u'seiner', u'seines', u'Jackenarmel', u'Doch', u'Miene\nIst', u'Neffe', u'beinahe', u'mir', u'beilaufig', u'adieu', u'offenen', u'Mode', u'\nMrs', u'munter', u'fiel', u'denn', u'zerstort', u'gerichtet', u'stehen', u'Harry', u'Auftrag', u'Worte', u'Brummen', u'Wetter', u'Meinung\nBis', u'Vielleicht', u'Sinnestauschung', u'Andernfalls', u'Maschine', u'Grunnings', u'letzte', u'schreienden', u'verstricken', u'Stiefeln', u'eingeschlafen', u'leben', u'viel', u'ganzen', u'Liebes', u'ganzes', u'Silvester', u'deuteten', u'gefallen', u'richtigen', u'aufgeregt', u'Dumbledore\nSelbst', u'wurde\nJa', u'wird', u'erschien', u'aussah', u'wandte', u'eintreffen', u'kreuz', u'Minute', u'Fachleute', u'verfolgten', u'drauen', u'geschrieben\nEinen', u'Wehen', u'erloschen\nNun', u'soeben', u'Laterne', u'taten', u'voller', u'lebt', u'suchen', u'aufgebracht', u'Straenecke', u'purpurroten', u'Lily', u'wutend', u'Ganze', u'Notiz', u'Nase\nDumbledore', u'wurde', u'Stadt', u'rabenschwarzen', u'Londoner', u'spahte', u'wild', u'Einfach', u'auf\nDie', u'Sonnenaufgang', u'Nacht\nWir', u'Konnte', u'Hagrids', u'gestort', u'entdecken', u'Leintucher', u'Kopf', u'Leintuchem', u'angewurzelt', u'bald', u'Deckel', u'uberleben\n17\nWir', u'Ligusterwegs', u'Idee', u'Tasche', u'gedacht', u'angeschwirrt', u'Einen', u'Strae', u'Sternschnuppen', u'Yorkshire', u'plotzlich', u'Bescherung', u'Leintuchern', u'weg', u'wei', u'getan', u'gleich', u'leuchtete', u'Stecknadelkopfe', u'wolkenverhangenen', u'Ein', u'dennoch', u'nachts', u'sagen', u'Umhang', u'mutmaen', u'eben', u'werde\nNur', u'zischte', u'aus\nLeintuchern\nHagrid', u'versprochen', u'geradewegs', u'zwei', u'kleinen', u'stieg', u'kleiner', u'Mudigkeit', u'rasch', u'oben', u'Fleck', u'gereizt', u'rangelte', u'merkwurdige', u'langes', u'langen', u'hier', u'tadelloser', u'bereiteten', u'schnappte', u'aufgetaucht', u'erkennen', u'wolle', u'erhob', u'eine', u'wach', u'verwandt', u'schluchzte', u'Sir\nKeine', u'wecken', u'beginnt', u'aufdecken', u'Der', u'Lesebrille', u'sind\nIch', u'Welt', u'Dem', u'Blick', u'geblieben', u'davor', u'Duweitschonwer', u'seit', u'Ted', u'Tee', u'besaen', u'zufolge', u'Warum\nKomisches', u'Duweitschonwen', u'sein', u'davon', u'Gewiss', u'Alle', u'Stunden', u'ins', u'9\nhatte', u'Gestalten', u'nippte', u'Haus', u'sich', u'namlich', u'Nachbarn', u'blickten', u'Vergleich', u'U', u'flusterte', u'Jedenfalls', u'dusterer'])
+67 times the word  is present
+1 times the word mochten is present
+8 times the word gesehen is present
+4 times the word beobachtet is present
+1 times the word gewiss is present
+2 times the word dazu is present
+44 times the word auf is present
+2 times the word zuckte is present
+21 times the word aus is present
+4 times the word Uhr is present
+1 times the word Platz is present
+1 times the word gehabt
+Das is present
+1 times the word vergessen is present
+1 times the word neun is present
+1 times the word gepunktetes is present
+1 times the word neue is present
+2 times the word letzter is present
+5 times the word gerade is present
+1 times the word Baby is present
+14 times the word fur is present
+1 times the word schnaubte is present
+14 times the word haben is present
+1 times the word geworden is present
+2 times the word Wohnzimmer is present
+1 times the word Mitternacht is present
+3 times the word verschwunden is present
+1 times the word feiern
+Und is present
+1 times the word Godrics is present
+1 times the word verruckte is present
+1 times the word aufzuwachen is present
+1 times the word vernunftige is present
+2 times the word Diese is present
+1 times the word angerufen is present
+2 times the word geheimnisvolle is present
+1 times the word neu is present
+1 times the word Spur is present
+1 times the word Zeug is present
+2 times the word dort is present
+1 times the word drei is present
+56 times the word nicht is present
+1 times the word Horer is present
+1 times the word 
+Mein is present
+1 times the word ruhrte
+An is present
+1 times the word Wetteransager is present
+1 times the word Damen is present
+1 times the word verbrachte is present
+1 times the word Sehr is present
+2 times the word Nachrichten is present
+2 times the word Umhangen is present
+1 times the word Harvey is present
+1 times the word reichen is present
+1 times the word Dadalus is present
+2 times the word Gartenmauer is present
+1 times the word erlahmender is present
+1 times the word Stau is present
+1 times the word einiges is present
+1 times the word senkte is present
+1 times the word Jung is present
+1 times the word Licht is present
+1 times the word 
+An is present
+1 times the word Jungen
+Die is present
+3 times the word Moment is present
+1 times the word schlieen is present
+1 times the word einigen is present
+1 times the word arme is present
+1 times the word truben is present
+2 times the word Dinge is present
+1 times the word wars is present
+1 times the word bringt is present
+1 times the word Person is present
+1 times the word scharfem is present
+2 times the word sicher is present
+1 times the word warf is present
+11 times the word ware is present
+1 times the word gefeiert is present
+1 times the word gewaltig is present
+1 times the word Fingern is present
+3 times the word wussten is present
+1 times the word weiteres is present
+1 times the word Hollow is present
+1 times the word Merk is present
+13 times the word im is present
+1 times the word breitbeinig is present
+1 times the word gegen is present
+1 times the word klammerten is present
+2 times the word geben is present
+4 times the word wirklich is present
+4 times the word Junge is present
+1 times the word tropfnassen is present
+1 times the word studierte is present
+6 times the word Jetzt is present
+1 times the word ent is present
+1 times the word heien is present
+1 times the word Farbe is present
+1 times the word tintenfarbenen is present
+1 times the word anderen is present
+1 times the word anderem is present
+1 times the word erwahnte is present
+1 times the word lag is present
+1 times the word Himmels is present
+3 times the word Bohrmaschinen is present
+1 times the word eingesehen is present
+1 times the word spater is present
+1 times the word las is present
+1 times the word 
+Dumbledore is present
+1 times the word herausholen is present
+1 times the word Recht is present
+2 times the word Immer is present
+7 times the word Jungen is present
+1 times the word Gerucht is present
+1 times the word breit is present
+1 times the word Hacken is present
+1 times the word Antwort is present
+1 times the word Wurde is present
+1 times the word schone is present
+2 times the word Katzen is present
+2 times the word Herz is present
+3 times the word versuchte is present
+1 times the word Herr is present
+1 times the word donnernd is present
+1 times the word Mittagspause is present
+2 times the word deiner is present
+1 times the word kalten is present
+16 times the word wenn is present
+3 times the word mindestens is present
+1 times the word Gonagall is present
+3 times the word Seite is present
+1 times the word Schlafzimmerfenster is present
+24 times the word ihn is present
+1 times the word sammelten is present
+1 times the word kletterte is present
+1 times the word Plop is present
+1 times the word erweckte is present
+1 times the word danach is present
+2 times the word regte is present
+1 times the word zerbrochen is present
+1 times the word Probleme
+Nein is present
+1 times the word vorsichtiger is present
+1 times the word hinuberspahen is present
+3 times the word diesem is present
+4 times the word diesen is present
+1 times the word durcheinander is present
+5 times the word dieser is present
+3 times the word dieses is present
+1 times the word nirgends is present
+1 times the word Dumbledore
+Albus is present
+1 times the word unbedingt is present
+2 times the word Wort is present
+1 times the word Burgersteig is present
+2 times the word deutete is present
+1 times the word neunten is present
+19 times the word ist is present
+1 times the word mussen
+13
+In is present
+1 times the word Erzurnt is present
+1 times the word Gedanke is present
+6 times the word einer is present
+2 times the word eines is present
+1 times the word umarmte is present
+2 times the word lauter is present
+1 times the word zwangte
+Keiner is present
+23 times the word einen is present
+1 times the word Mundern is present
+17 times the word einem is present
+1 times the word aufschnappen is present
+1 times the word verstecke is present
+1 times the word tot is present
+1 times the word Verkleidung is present
+4 times the word ganze is present
+1 times the word riesiges
+19
+Motorrad is present
+2 times the word nahm is present
+1 times the word Fue is present
+1 times the word Ganz is present
+3 times the word ihren is present
+1 times the word vieles is present
+1 times the word Bauchhohe is present
+1 times the word schlielich is present
+1 times the word gingen is present
+1 times the word riesigen is present
+1 times the word anderte is present
+1 times the word drehten is present
+3 times the word deren is present
+1 times the word Wenn is present
+1 times the word gekleideter is present
+1 times the word leuchteten is present
+1 times the word heutige is present
+1 times the word bin
+Nein is present
+1 times the word Tochter is present
+1 times the word entsetzt is present
+1 times the word her
+Hab is present
+1 times the word Mochten is present
+1 times the word Woran is present
+6 times the word kleine is present
+1 times the word zuckten is present
+1 times the word die
+Hose is present
+1 times the word herauskommen is present
+1 times the word Gegenteil is present
+2 times the word Brille is present
+1 times the word dumme is present
+1 times the word Macht is present
+2 times the word Lufte is present
+2 times the word Weile is present
+1 times the word Jahre is present
+8 times the word zuruck is present
+1 times the word Harrys is present
+2 times the word Schild is present
+1 times the word hieen is present
+1 times the word hineingeraten is present
+7 times the word sehen is present
+1 times the word Bis is present
+1 times the word langfuhr is present
+8 times the word da is present
+1 times the word belegter is present
+1 times the word Augen
+Schhhh is present
+4 times the word du is present
+7 times the word einmal is present
+1 times the word anzu is present
+2 times the word mitteilen is present
+8 times the word nichts is present
+1 times the word umgestoen is present
+1 times the word besa is present
+12 times the word nur is present
+4 times the word nun is present
+1 times the word schreiben is present
+1 times the word erleichterter is present
+1 times the word ublichen is present
+4 times the word bemerkte is present
+1 times the word mus is present
+1 times the word Fukick is present
+5 times the word weiter is present
+1 times the word weiten is present
+1 times the word Nahe is present
+1 times the word Muggels is present
+1 times the word Nichtsnutz is present
+5 times the word diese is present
+4 times the word wo is present
+1 times the word geschutzten is present
+6 times the word uns is present
+28 times the word sagte is present
+1 times the word kommen is present
+1 times the word Milchflaschen is present
+1 times the word Mr
+Dursley is present
+134 times the word und is present
+2 times the word mochte is present
+2 times the word ernst is present
+1 times the word einzusetzen
+Ein is present
+1 times the word Sekunden is present
+1 times the word sahen is present
+1 times the word struppigen is present
+2 times the word Laune is present
+1 times the word Unter is present
+4 times the word Grund is present
+1 times the word wichtige is present
+1 times the word Vogelkundler is present
+25 times the word Dumbledore is present
+2 times the word fest is present
+1 times the word nachdachte is present
+1 times the word rausperte is present
+1 times the word gewachsen is present
+1 times the word schnauzte is present
+1 times the word wusste is present
+5 times the word Schwester is present
+1 times the word Wange is present
+3 times the word wenig is present
+1 times the word breites is present
+1 times the word gelernt is present
+51 times the word in is present
+1 times the word Sekretarin is present
+1 times the word nachste is present
+1 times the word ordentlich is present
+1 times the word Spitzentaschentuch is present
+1 times the word durch is present
+2 times the word Zeit is present
+11 times the word Potters is present
+10 times the word nie is present
+2 times the word Schlaf is present
+1 times the word Rund is present
+1 times the word Bristol is present
+1 times the word Neueste is present
+1 times the word Bevor is present
+3 times the word ihrem is present
+1 times the word Eule is present
+1 times the word stammelte is present
+3 times the word gekommen is present
+2 times the word ihrer is present
+1 times the word sprechen is present
+1 times the word kennen
+Genau is present
+1 times the word bleiben
+Konnen is present
+3 times the word andern is present
+1 times the word piesacken is present
+2 times the word anders is present
+2 times the word wahr is present
+1 times the word sagten is present
+1 times the word Stimme
+Endlich is present
+1 times the word Blicke is present
+3 times the word hab is present
+1 times the word elf is present
+2 times the word komisch is present
+1 times the word Diggel is present
+1 times the word Wutanfall is present
+1 times the word herumtreiben is present
+1 times the word offnen is present
+7 times the word hat is present
+3 times the word wissen is present
+2 times the word schlief is present
+2 times the word unter is present
+1 times the word 
+Mr is present
+3 times the word James is present
+4 times the word groen is present
+1 times the word beunruhigen is present
+1 times the word dankbar is present
+2 times the word hierher is present
+1 times the word groes is present
+3 times the word ausgerechnet is present
+1 times the word Krafte is present
+3 times the word unten is present
+1 times the word gesichtet is present
+1 times the word funfmal is present
+1 times the word Buschel is present
+1 times the word Vogel is present
+38 times the word mit is present
+1 times the word Arm is present
+1 times the word sturmte is present
+1 times the word bereit is present
+1 times the word dauernd is present
+1 times the word Nase
+O is present
+1 times the word Planeten is present
+1 times the word Dudleys is present
+1 times the word Haferbrei is present
+4 times the word Name is present
+33 times the word ich is present
+1 times the word Punkt is present
+1 times the word nachsten is present
+1 times the word grauen is present
+1 times the word fruh is present
+1 times the word ahneln is present
+1 times the word gefielen is present
+1 times the word mehrere is present
+4 times the word vielleicht is present
+2 times the word Ausmacher is present
+1 times the word geschrien is present
+1 times the word verschwindet is present
+1 times the word gefunden is present
+1 times the word Besseren
+Hastig is present
+3 times the word zur is present
+1 times the word Kopfrucken is present
+1 times the word Sammelbuchse is present
+11 times the word zum is present
+10 times the word konnen is present
+12 times the word aber is present
+1 times the word Schlafen is present
+1 times the word begreifen
+Professor is present
+1 times the word ahm is present
+3 times the word Geschichte is present
+1 times the word Stattdessen is present
+1 times the word holen
+Die is present
+1 times the word erhoben is present
+1 times the word trostender is present
+3 times the word Backer is present
+2 times the word Hand is present
+1 times the word Jemand is present
+3 times the word Ende is present
+1 times the word gib is present
+10 times the word was is present
+44 times the word war is present
+1 times the word dannen
+Mr is present
+1 times the word Stimme
+Professor is present
+3 times the word Fenster is present
+4 times the word trug is present
+3 times the word fort is present
+2 times the word muss is present
+1 times the word geheimnisvollen is present
+1 times the word verdrehen is present
+1 times the word Vol is present
+1 times the word harten is present
+3 times the word Sir is present
+1 times the word Einzige is present
+1 times the word vorbeischossen is present
+31 times the word Sie is present
+2 times the word wollten is present
+1 times the word na is present
+1 times the word Schmatz is present
+1 times the word blinzelte is present
+1 times the word verstehen is present
+1 times the word mit
+Sie is present
+2 times the word legte is present
+2 times the word dies is present
+1 times the word Hund is present
+3 times the word scharf is present
+2 times the word Wie is present
+1 times the word aufgehalten is present
+1 times the word Ansammlung is present
+1 times the word Autotur is present
+3 times the word Wir is present
+1 times the word bisschen is present
+1 times the word Richtung is present
+1 times the word Dundee is present
+3 times the word sollte is present
+3 times the word namens is present
+1 times the word sieht is present
+3 times the word selbst is present
+1 times the word Suigkeiten is present
+1 times the word herzlich is present
+1 times the word rot is present
+1 times the word 
+Ja is present
+1 times the word meisten is present
+3 times the word Buro is present
+2 times the word Ihnen is present
+1 times the word deswegen is present
+5 times the word Das is present
+2 times the word Bahn is present
+1 times the word vorbeigekommen is present
+1 times the word Wande is present
+10 times the word ihnen is present
+1 times the word fernzuhalten is present
+1 times the word Hochstuhl is present
+10 times the word hatten is present
+1 times the word McGuffin is present
+1 times the word Taschen is present
+2 times the word hinunter is present
+1 times the word Tat is present
+1 times the word bullig is present
+114 times the word die is present
+1 times the word grote is present
+1 times the word naturlich is present
+8 times the word Tag is present
+1 times the word gut is present
+3 times the word Petunia is present
+2 times the word sogar is present
+1 times the word zusammenprallte
+Verzeihung is present
+1 times the word Orange is present
+2 times the word verhalten is present
+3 times the word Morgen is present
+2 times the word zwolf is present
+2 times the word daruber is present
+1 times the word hinauszustellen is present
+2 times the word weitere is present
+1 times the word Lenkrad is present
+1 times the word einzigen is present
+1 times the word verspatet is present
+1 times the word Mc is present
+1 times the word Darin is present
+1 times the word Mn is present
+1 times the word lange is present
+1 times the word Knies is present
+1 times the word vorsichtig is present
+1 times the word Mt is present
+1 times the word erreicht is present
+21 times the word Mr is present
+1 times the word laut
+Die is present
+9 times the word Hagrid is present
+2 times the word alte is present
+1 times the word dich is present
+1 times the word belustigen is present
+1 times the word 7
+mer is present
+1 times the word Feiern is present
+1 times the word hasslicher is present
+1 times the word keineswegs is present
+1 times the word bog is present
+2 times the word bevor is present
+1 times the word behauptete is present
+1 times the word herausfinden is present
+1 times the word Atem
+Lily is present
+1 times the word bestimmt is present
+1 times the word lesen is present
+1 times the word Sehen is present
+3 times the word erklaren is present
+1 times the word vernunftig
+Sie is present
+1 times the word Telefongespra is present
+1 times the word daneben is present
+20 times the word konnte is present
+1 times the word eulenfreien is present
+1 times the word versucht is present
+1 times the word Klungel
+Mrs is present
+1 times the word Mauer
+18
+wirklich is present
+1 times the word versuche is present
+2 times the word unsere is present
+1 times the word gestern is present
+1 times the word Bartes is present
+1 times the word Vetter is present
+8 times the word ihre is present
+2 times the word stolz is present
+1 times the word Lippen is present
+1 times the word Feuerzeug is present
+27 times the word noch is present
+1 times the word flogen is present
+1 times the word vertrauen
+Ich is present
+1 times the word Telefon is present
+2 times the word Lacheln is present
+1 times the word Schnecke is present
+3 times the word Mit is present
+1 times the word Schlielich is present
+1 times the word uberkam
+ihn is present
+2 times the word Voldemorts is present
+1 times the word Krapfen is present
+2 times the word Zitronenbrausebonbon is present
+3 times the word Jedoch is present
+2 times the word mal is present
+2 times the word Vorwurf is present
+6 times the word man is present
+1 times the word anzogen is present
+21 times the word so is present
+1 times the word unterwegs is present
+1 times the word Plotzlich is present
+6 times the word sa is present
+2 times the word denken is present
+1 times the word piepsiger is present
+10 times the word immer is present
+1 times the word Jah is present
+1 times the word still is present
+1 times the word Das
+6
+musste is present
+1 times the word geschaut is present
+1 times the word gebracht is present
+1 times the word nirgendwo is present
+1 times the word Kiste is present
+1 times the word Einbildungskraft is present
+3 times the word beim is present
+1 times the word eilte is present
+3 times the word halb is present
+1 times the word recken is present
+4 times the word lieber is present
+1 times the word blauen is present
+1 times the word Schwarme is present
+1 times the word Lichter is present
+2 times the word Eine is present
+1 times the word Einbiegung is present
+6 times the word kann is present
+1 times the word hohen is present
+1 times the word Suche is present
+1 times the word Stadtrand is present
+2 times the word entfernte is present
+44 times the word es is present
+96 times the word er is present
+1 times the word Jagen is present
+1 times the word blo is present
+1 times the word scharfaugige is present
+1 times the word tauschte
+Mr is present
+1 times the word Leintuchbundel is present
+1 times the word Abendessen is present
+1 times the word Keiner is present
+1 times the word hinwegflog is present
+10 times the word auch is present
+1 times the word Stimmen is present
+6 times the word keinen is present
+1 times the word Beine is present
+2 times the word normalerweise is present
+1 times the word glaubte is present
+1 times the word Black is present
+1 times the word unertraglich is present
+2 times the word getigerte is present
+1 times the word Namen
+11
+Potter is present
+1 times the word doppelt is present
+1 times the word flackerte is present
+1 times the word Bohrern
+In is present
+1 times the word herausputzten is present
+1 times the word Probleme is present
+4 times the word blickte is present
+1 times the word nehmen is present
+6 times the word Nummer is present
+1 times the word fischte is present
+1 times the word konnen
+Die is present
+1 times the word kratzigen is present
+1 times the word krumm is present
+1 times the word erzahlt is present
+3 times the word bemerken is present
+4 times the word merkwurdigen is present
+1 times the word anvertrauen is present
+1 times the word auf
+Vvverzeihung is present
+16 times the word Leute is present
+1 times the word Schwanz is present
+1 times the word festgenagelt is present
+2 times the word neben is present
+1 times the word geht is present
+6 times the word Dursleys is present
+7 times the word sah is present
+10 times the word alles is present
+1 times the word traurig is present
+30 times the word dass is present
+1 times the word geborgt is present
+1 times the word Partys is present
+3 times the word Hals is present
+1 times the word besserte is present
+4 times the word zog is present
+1 times the word Beim is present
+4 times the word all is present
+1 times the word Vorzeichen is present
+2 times the word normal is present
+2 times the word Angst is present
+1 times the word sprach is present
+3 times the word machte is present
+14 times the word sehr is present
+1 times the word Brausebonbon
+15
+Ein is present
+1 times the word Wohnzimmerfenster is present
+1 times the word Meldung is present
+1 times the word Wochen is present
+2 times the word Tuscheln is present
+1 times the word solche is present
+5 times the word Weg is present
+1 times the word fassen is present
+1 times the word Ruck is present
+2 times the word Kent is present
+3 times the word offnete is present
+1 times the word rutschte is present
+1 times the word setzt is present
+3 times the word bringen is present
+1 times the word verschwunden
+Eine is present
+4 times the word gehort is present
+1 times the word Wo is present
+1 times the word dick is present
+1 times the word gebrochen is present
+1 times the word wissen
+Professor is present
+1 times the word Turschwelle is present
+1 times the word mys
+10
+terios is present
+1 times the word Nervos is present
+1 times the word Tassen is present
+1 times the word Eiszapfen is present
+1 times the word Schokoladenkringel is present
+1 times the word schwieg
+Was is present
+1 times the word dasselbe is present
+1 times the word schwer is present
+5 times the word sollten is present
+1 times the word Schrei
+22
+ihn is present
+1 times the word regnerische is present
+1 times the word uberall is present
+1 times the word gleiten is present
+2 times the word verwirrt is present
+1 times the word behutsam is present
+1 times the word ruckwarts is present
+3 times the word dachte is present
+5 times the word Ecke is present
+1 times the word landete is present
+1 times the word Sicher is present
+1 times the word kommen
+Als is present
+1 times the word flogen
+Dumbledore is present
+1 times the word offensichtlich is present
+1 times the word verzeih is present
+2 times the word Boden is present
+2 times the word Gluck is present
+1 times the word irgendeinem is present
+1 times the word Stolpern is present
+7 times the word tun is present
+1 times the word ja is present
+2 times the word Ihr is present
+1 times the word darin is present
+1 times the word Sir
+Hagrid is present
+1 times the word sind
+Sie is present
+1 times the word blinzeln is present
+1 times the word zusammenzureien is present
+1 times the word stimmt is present
+1 times the word streifte is present
+1 times the word Unerhortes is present
+1 times the word muskelbepackten is present
+1 times the word oder
+Wie is present
+1 times the word Kuss is present
+1 times the word Sache is present
+44 times the word Dursley is present
+1 times the word gewahlt is present
+2 times the word Bett is present
+3 times the word oder is present
+2 times the word Bohrer is present
+1 times the word huschten is present
+2 times the word Haares is present
+1 times the word Ferne is present
+1 times the word 14
+Ich is present
+1 times the word Schnitt is present
+1 times the word das
+Ein is present
+1 times the word tuschelte is present
+38 times the word ein is present
+1 times the word beugte is present
+1 times the word Besten is present
+1 times the word dafur is present
+2 times the word Umhangs is present
+2 times the word Albus is present
+1 times the word schwarzes is present
+2 times the word Mund is present
+1 times the word Wenigstens is present
+1 times the word Feste is present
+1 times the word Unbehagen is present
+1 times the word aufkreuzen is present
+1 times the word dabei is present
+1 times the word Innentasche is present
+1 times the word berichtet is present
+1 times the word macher is present
+1 times the word Dass is present
+1 times the word sagen
+Mrs is present
+1 times the word machen is present
+3 times the word In is present
+1 times the word entschlossen is present
+1 times the word berichten is present
+1 times the word bewegte is present
+1 times the word Aktentasche is present
+1 times the word Abend is present
+1 times the word funkelnd is present
+1 times the word McGonagall
+Mit is present
+1 times the word umsichtig is present
+1 times the word sprang is present
+1 times the word niedrige is present
+6 times the word konnten is present
+6 times the word 4 is present
+1 times the word stattdessen is present
+1 times the word Versammlungen is present
+4 times the word drehte is present
+1 times the word neuen is present
+1 times the word neues is present
+9 times the word Mann is present
+1 times the word unglaublich is present
+1 times the word Narbe is present
+1 times the word verschiedene is present
+1 times the word versprechen
+Mr is present
+1 times the word Luft is present
+1 times the word entfernten is present
+2 times the word besser is present
+1 times the word zugeknallt is present
+3 times the word meinen is present
+1 times the word kamen is present
+1 times the word festen is present
+1 times the word Parkplatz is present
+1 times the word wartete
+Bildete is present
+8 times the word seine is present
+1 times the word 
+Und is present
+1 times the word Dutzend is present
+1 times the word Schniefen is present
+1 times the word furchtete
+Sie is present
+8 times the word habe is present
+6 times the word wurden is present
+1 times the word Dumbledores is present
+6 times the word ob is present
+2 times the word stand is present
+3 times the word Wahrend is present
+1 times the word irgendeine is present
+1 times the word Meinung is present
+3 times the word knipste is present
+1 times the word Stirn is present
+1 times the word gahnte is present
+3 times the word her is present
+4 times the word Menschen is present
+2 times the word strich is present
+1 times the word gesagt is present
+1 times the word los is present
+1 times the word Zweck is present
+1 times the word starr is present
+1 times the word stellte is present
+1 times the word an
+Nun is present
+1 times the word schluckte is present
+1 times the word hinfiel is present
+1 times the word Nummer
+8
+von is present
+3 times the word mich is present
+1 times the word wiederholte is present
+1 times the word gehort
+ja is present
+1 times the word Vorbeigehen is present
+1 times the word ihresgleichen is present
+1 times the word stattfanden is present
+6 times the word keine is present
+1 times the word erinnern is present
+1 times the word wurdiges is present
+7 times the word am is present
+1 times the word demort is present
+21 times the word an is present
+1 times the word Wissen is present
+1 times the word pfui is present
+2 times the word beobachtete is present
+1 times the word Erst is present
+1 times the word uns
+Dumbledore is present
+1 times the word Ohrenschutzer
+Professor is present
+1 times the word betupfte is present
+1 times the word Blitz
+Ist is present
+16 times the word etwas is present
+1 times the word dunkel is present
+1 times the word fuhrte is present
+2 times the word Wagen is present
+1 times the word trommelte is present
+1 times the word heftig is present
+1 times the word notwendig is present
+1 times the word summte is present
+10 times the word Eulen is present
+3 times the word Mauer is present
+1 times the word bewarf is present
+1 times the word neigt is present
+1 times the word Bucher is present
+1 times the word Schilder is present
+1 times the word Stille is present
+1 times the word alt is present
+23 times the word als is present
+12 times the word waren is present
+2 times the word hoffte is present
+1 times the word langst is present
+1 times the word Narben is present
+1 times the word 
+Wie is present
+1 times the word Einzigen is present
+1 times the word wohin is present
+3 times the word Voldemort is present
+6 times the word Sohn is present
+1 times the word haben
+Mr is present
+2 times the word steckten is present
+1 times the word darunter
+Hagrid is present
+1 times the word funkelnde is present
+1 times the word gehen
+21
+Jaow is present
+1 times the word halbmondformigen is present
+4 times the word hervor is present
+1 times the word Robe is present
+2 times the word ohne is present
+1 times the word Jedem is present
+2 times the word zweimal is present
+1 times the word geandert is present
+1 times the word aus
+Woher is present
+1 times the word Gabel is present
+1 times the word dagegen is present
+1 times the word nanu is present
+1 times the word umarmt is present
+1 times the word undursleyhaft is present
+3 times the word fragte is present
+1 times the word aus
+Schhhh is present
+1 times the word vertreten is present
+1 times the word Autoschlange is present
+2 times the word hast is present
+1 times the word ver is present
+1 times the word Schwester
+Nein is present
+3 times the word murmelte is present
+1 times the word besitzen is present
+2 times the word Jahren is present
+1 times the word Delphinbabys is present
+1 times the word auszusprechen
+Das is present
+1 times the word geschnittenen is present
+1 times the word vorbeifliegen
+Um is present
+1 times the word Gurtel is present
+3 times the word Auf is present
+1 times the word weniger is present
+2 times the word Aus is present
+1 times the word durchdringenden is present
+1 times the word beste is present
+1 times the word zu
+Konnte is present
+1 times the word einbog is present
+1 times the word Beruhrung is present
+1 times the word sorgfaltig is present
+1 times the word standen is present
+1 times the word dieselbe is present
+1 times the word hinu
+12
+bergeglitten is present
+1 times the word verdeckten is present
+1 times the word So is present
+1 times the word knipsen is present
+1 times the word verlieren is present
+62 times the word der is present
+3 times the word des is present
+25 times the word dem is present
+57 times the word den is present
+1 times the word Brillenglasern is present
+1 times the word Gegenden is present
+5 times the word wieder is present
+1 times the word sagen
+5
+sollten is present
+1 times the word leisen is present
+1 times the word bewundernd is present
+5 times the word mehr is present
+1 times the word etlichen is present
+1 times the word Dumbledore
+Es is present
+1 times the word Warum is present
+1 times the word stie is present
+1 times the word aufwachst is present
+1 times the word kkkann is present
+1 times the word werfen is present
+1 times the word gegangen is present
+1 times the word Schlingel is present
+1 times the word Nascherei is present
+1 times the word Karten is present
+1 times the word Gartenzaun is present
+1 times the word einschlief is present
+4 times the word kein is present
+1 times the word Armen is present
+1 times the word Nachmittag is present
+2 times the word Haustur is present
+1 times the word McGonagall
+Ja is present
+1 times the word behaupte is present
+1 times the word mich
+fragst
+O is present
+1 times the word Krawatte is present
+1 times the word Alter is present
+3 times the word alle is present
+1 times the word Anblick is present
+2 times the word auftauchte is present
+1 times the word sammengebunden is present
+1 times the word genannt is present
+1 times the word Grobritannien is present
+2 times the word nutzlich is present
+1 times the word Schauer is present
+1 times the word dasitzen is present
+2 times the word alter is present
+6 times the word musste is present
+1 times the word Bad is present
+1 times the word anstelle is present
+1 times the word zitternder is present
+1 times the word oberhalb
+20
+des is present
+1 times the word krauselte is present
+1 times the word Jaja is present
+1 times the word gewartet is present
+4 times the word Aber is present
+1 times the word mussten is present
+1 times the word Absatz is present
+8 times the word Potter is present
+2 times the word Selbst is present
+1 times the word vorbeigingen is present
+2 times the word griff is present
+3 times the word nein is present
+1 times the word hinuber is present
+1 times the word Straenlaterne is present
+2 times the word Kopfe is present
+1 times the word unvorsichtig is present
+1 times the word streckte is present
+1 times the word Gedankenverloren is present
+1 times the word goldene is present
+1 times the word hoffentlich is present
+3 times the word endlich is present
+2 times the word dunn is present
+2 times the word Muster is present
+1 times the word Flusterern is present
+5 times the word Und is present
+1 times the word vergrub is present
+1 times the word schwerer is present
+1 times the word Male is present
+1 times the word gequalt is present
+1 times the word Schritt is present
+1 times the word bring is present
+1 times the word ertragen is present
+2 times the word blieb is present
+2 times the word Haar is present
+1 times the word Ziffern is present
+1 times the word Knoten is present
+1 times the word Vordereingang is present
+1 times the word Mannes is present
+1 times the word violetten is present
+6 times the word Es is present
+34 times the word Er is present
+1 times the word netten is present
+1 times the word Drohnen is present
+1 times the word wagen is present
+1 times the word uberlegte is present
+14 times the word nach is present
+2 times the word Unsinn is present
+2 times the word Sirius is present
+2 times the word nennen is present
+1 times the word Ubrigens is present
+2 times the word Tante is present
+1 times the word mitbekommen is present
+1 times the word uberquerte is present
+1 times the word Kein is present
+1 times the word Sessel is present
+6 times the word schon is present
+1 times the word Jemandem is present
+3 times the word Nun is present
+5 times the word dann is present
+1 times the word flusterten is present
+1 times the word blond is present
+1 times the word zelte is present
+1 times the word besann is present
+1 times the word Rucken is present
+2 times the word Seine is present
+1 times the word Mutter is present
+1 times the word Nachrichtensprecher is present
+1 times the word wirklichen is present
+2 times the word Im is present
+1 times the word Strahnen is present
+1 times the word silbernes is present
+1 times the word verjagte is present
+1 times the word begegnete is present
+3 times the word kam is present
+1 times the word silbernen is present
+1 times the word Zeiger is present
+1 times the word reden is present
+1 times the word Zuschauer is present
+2 times the word meine is present
+2 times the word beiden is present
+2 times the word Geruchte is present
+1 times the word ausstehen is present
+1 times the word Hagrid
+Er is present
+1 times the word miteinander is present
+1 times the word konzentrieren is present
+1 times the word aussehender is present
+4 times the word nehme is present
+5 times the word Gedanken is present
+1 times the word umherfliegen is present
+1 times the word Heute is present
+3 times the word hielt is present
+5 times the word Ja is present
+1 times the word Minuten is present
+2 times the word mein is present
+1 times the word auftauchen is present
+1 times the word hie is present
+1 times the word tot
+Dumbledore is present
+4 times the word hin is present
+2 times the word alledem is present
+2 times the word uberhaupt is present
+1 times the word quadratisch is present
+1 times the word Nachbarins is present
+1 times the word Zukunft is present
+1 times the word Einfahrt is present
+2 times the word Sorge is present
+2 times the word klopfte is present
+1 times the word Lederstiefeln is present
+2 times the word Beruhmt is present
+2 times the word Glaser is present
+1 times the word zornige is present
+1 times the word sen is present
+2 times the word dumm is present
+7 times the word einfach is present
+1 times the word sei is present
+1 times the word ungewohnlich is present
+1 times the word schwoll is present
+1 times the word sonst is present
+1 times the word klug is present
+2 times the word Kind is present
+4 times the word Motorrad is present
+1 times the word Dann is present
+20 times the word Katze is present
+1 times the word musterte is present
+1 times the word jedes is present
+2 times the word Nein is present
+1 times the word Uberraschung is present
+1 times the word peinigen is present
+1 times the word Dienstag is present
+1 times the word Lichtballe is present
+1 times the word 16
+uber is present
+2 times the word zusammen is present
+3 times the word Was is present
+1 times the word War is present
+1 times the word fauchte is present
+2 times the word weder is present
+1 times the word steif
+Wie is present
+4 times the word Auch is present
+3 times the word Tage is present
+6 times the word Ligusterweg is present
+1 times the word Plan is present
+1 times the word Auffahrt is present
+2 times the word gluckste is present
+1 times the word Schlitzen
+Einen is present
+4 times the word gar is present
+1 times the word Erstes is present
+2 times the word funf is present
+1 times the word meinte is present
+8 times the word heute is present
+1 times the word schwinden is present
+7 times the word gab is present
+1 times the word richten is present
+1 times the word sehen
+Sie is present
+1 times the word Luften is present
+2 times the word smaragdgrunen is present
+1 times the word Nach is present
+3 times the word steckte is present
+1 times the word Allerorten is present
+1 times the word Muggelsachen is present
+2 times the word vom is present
+27 times the word von is present
+1 times the word wischte is present
+1 times the word dreinblickenden is present
+1 times the word Arbeit is present
+5 times the word vor is present
+1 times the word Ahm is present
+1 times the word Stock is present
+2 times the word recht is present
+1 times the word wonach is present
+1 times the word Nerven is present
+7 times the word warum is present
+3 times the word lie is present
+1 times the word langweiligste is present
+1 times the word holte is present
+1 times the word umgebracht is present
+1 times the word verboten is present
+2 times the word Onkel is present
+1 times the word Scheinwerfer is present
+6 times the word Namen is present
+1 times the word rechts is present
+1 times the word hinaus
+An is present
+1 times the word Mulleimerdeckel is present
+3 times the word wahrend is present
+1 times the word prachtigeren is present
+1 times the word Hande is present
+1 times the word finden is present
+2 times the word sanft is present
+1 times the word ungewohnlicher is present
+1 times the word danke is present
+1 times the word anstarrte is present
+1 times the word der
+Riese is present
+1 times the word Vorgarten is present
+4 times the word bin is present
+1 times the word schwieg is present
+1 times the word Oh is present
+10 times the word Die is present
+1 times the word Uberall is present
+2 times the word steif is present
+1 times the word erwarten is present
+1 times the word Heulen is present
+4 times the word bis is present
+2 times the word Schnurrbart is present
+1 times the word vermute is present
+1 times the word rechten is present
+1 times the word was
+Ein is present
+5 times the word schien is present
+2 times the word helllichten is present
+1 times the word Finger is present
+1 times the word tiefes is present
+2 times the word Niemand is present
+3 times the word hinter is present
+3 times the word Bundel is present
+1 times the word ernsten is present
+1 times the word tiefem is present
+3 times the word offenbar is present
+1 times the word gewohnlich is present
+1 times the word Tages is present
+1 times the word rief is present
+1 times the word herauskame is present
+1 times the word Straenlaternen is present
+1 times the word hinzuschauen is present
+1 times the word lachelte is present
+1 times the word Freuen is present
+1 times the word Wichtiges is present
+3 times the word weit is present
+1 times the word hinwegflogen is present
+2 times the word weil is present
+1 times the word Duweit is present
+1 times the word Pack is present
+1 times the word Bart is present
+2 times the word darauf is present
+1 times the word unruhigen is present
+3 times the word Gesicht is present
+1 times the word allerdings is present
+3 times the word Menge is present
+1 times the word Abschiedskuss is present
+1 times the word verdrangt is present
+1 times the word Elf is present
+2 times the word gewesen is present
+1 times the word gingen
+verlor is present
+4 times the word wissend is present
+1 times the word verletzter is present
+1 times the word Dumbledore
+Ich is present
+1 times the word oder
+Ich is present
+1 times the word willen is present
+1 times the word schlich is present
+1 times the word dalag is present
+1 times the word leise is present
+8 times the word fast is present
+1 times the word Geheimnis is present
+1 times the word richtige is present
+3 times the word besonders is present
+1 times the word Umhangtasche is present
+1 times the word sein
+Verargert is present
+1 times the word wurde
+Doch is present
+2 times the word Straenkarte is present
+1 times the word Herren is present
+1 times the word Grunde is present
+16 times the word um is present
+1 times the word kuhl is present
+1 times the word sie
+Mein is present
+16 times the word uber is present
+10 times the word Ich is present
+1 times the word verlie is present
+3 times the word Himmel is present
+1 times the word hatte
+Und is present
+1 times the word Schnallenstiefel is present
+1 times the word bemerkt is present
+1 times the word Eingangstur is present
+1 times the word Eulenschauer is present
+1 times the word Arme is present
+1 times the word ausladenden is present
+1 times the word neigten is present
+2 times the word beide is present
+4 times the word wollte is present
+2 times the word beruhmt is present
+4 times the word gro is present
+3 times the word Nacht is present
+3 times the word Mal is present
+1 times the word Man is present
+1 times the word Zur is present
+3 times the word starrte is present
+7 times the word wohl is present
+1 times the word vollig is present
+1 times the word walzte is present
+1 times the word tagsuber is present
+1 times the word Straen is present
+1 times the word schauten is present
+1 times the word langsam is present
+4 times the word lang is present
+1 times the word verengten is present
+1 times the word gehen is present
+2 times the word An is present
+1 times the word Grinsen is present
+1 times the word niedergegangen is present
+9 times the word ganz is present
+1 times the word Besonderes is present
+1 times the word Jim is present
+4 times the word toten is present
+3 times the word setzte is present
+1 times the word schwatzte is present
+1 times the word Larm is present
+1 times the word wohnen is present
+2 times the word geschehen is present
+1 times the word Familie is present
+2 times the word Leben is present
+1 times the word Schon is present
+1 times the word auer is present
+1 times the word Waldkauz is present
+4 times the word Stimme is present
+6 times the word ging is present
+1 times the word gesessen is present
+1 times the word Zitronenbrausebonbons is present
+2 times the word Tigerkatze is present
+1 times the word verschwunden
+Dumbledore is present
+1 times the word Statt is present
+1 times the word Howard is present
+5 times the word Brief is present
+1 times the word sonderbarer is present
+1 times the word Kleiner is present
+11 times the word Augen is present
+58 times the word zu is present
+1 times the word erlosch is present
+1 times the word schwang is present
+1 times the word einige is present
+1 times the word Aufmachung is present
+26 times the word Professor is present
+11 times the word sind is present
+1 times the word anziehen
+Dabei is present
+2 times the word Schultern is present
+3 times the word ersten is present
+1 times the word Pomfrey is present
+29 times the word wie is present
+1 times the word geschah is present
+1 times the word geriet is present
+1 times the word Abendnachrichten is present
+1 times the word willkommen is present
+1 times the word Legende is present
+6 times the word wir is present
+1 times the word Harchen is present
+1 times the word geliehen is present
+1 times the word Brise is present
+1 times the word che is present
+1 times the word nobel is present
+1 times the word quer is present
+1 times the word erlaubte is present
+1 times the word Statue is present
+4 times the word Land is present
+3 times the word heit is present
+1 times the word Nase is present
+1 times the word Madam is present
+36 times the word hatte is present
+1 times the word nichts
+Als is present
+1 times the word Zwolfmal is present
+1 times the word dumpfer is present
+1 times the word Jim
+Nun is present
+1 times the word feiert is present
+1 times the word links is present
+1 times the word Hecken is present
+1 times the word Regens is present
+1 times the word schmeicheln is present
+1 times the word zwischen is present
+2 times the word feiern is present
+7 times the word Muggel is present
+1 times the word Fremder is present
+2 times the word Tute is present
+1 times the word einzubilden is present
+1 times the word ihr
+Was is present
+57 times the word sie is present
+1 times the word Taschentuch is present
+1 times the word erkennen
+Viel is present
+7 times the word fuhr is present
+1 times the word klar is present
+1 times the word vergnugt is present
+16 times the word Mrs is present
+1 times the word wette is present
+1 times the word halten is present
+4 times the word paar is present
+1 times the word Kleidung is present
+1 times the word drangte is present
+1 times the word schrie is present
+1 times the word argern is present
+8 times the word Dudley is present
+1 times the word lautlos is present
+2 times the word ungefahr is present
+1 times the word erzahlte is present
+2 times the word hoch is present
+1 times the word durchstoberte is present
+1 times the word wundern is present
+1 times the word Bonbons is present
+22 times the word McGonagall is present
+2 times the word freudigen is present
+1 times the word hinwegschwirrten is present
+2 times the word Sinn is present
+1 times the word Sind is present
+1 times the word hat
+Offenbar is present
+2 times the word seltsam is present
+1 times the word verschwand is present
+15 times the word doch is present
+40 times the word das is present
+1 times the word Halbmonde is present
+1 times the word McGonagall
+Den is present
+2 times the word gewohnlicher is present
+1 times the word stockte is present
+1 times the word trat is present
+1 times the word HarryPotterTag is present
+2 times the word gewohnlichen is present
+1 times the word zeigte is present
+1 times the word kommt is present
+1 times the word ziemlich is present
+1 times the word Obwohl is present
+1 times the word guter is present
+1 times the word solchen is present
+1 times the word solchem is present
+1 times the word Ruckspiegel is present
+8 times the word werden is present
+1 times the word rei is present
+1 times the word daheim is present
+1 times the word Direktor is present
+2 times the word suchte is present
+1 times the word glanzender is present
+1 times the word hunderte is present
+1 times the word kaum is present
+1 times the word ansah
+Und is present
+1 times the word deshalb is present
+1 times the word dunkle is present
+9 times the word ihr is present
+1 times the word kehrte is present
+1 times the word leben
+Das is present
+1 times the word Sanft is present
+1 times the word damit is present
+17 times the word ihm is present
+1 times the word herstellte is present
+3 times the word entlang is present
+2 times the word nickte is present
+1 times the word Vollig is present
+1 times the word gedampfte is present
+3 times the word glauben is present
+2 times the word Firma is present
+6 times the word Frau is present
+1 times the word Backsteinmauer is present
+1 times the word Paar is present
+1 times the word Gewohnheiten is present
+2 times the word grummelte is present
+1 times the word befurchtet is present
+1 times the word brachte is present
+1 times the word Hause is present
+1 times the word morgendlichen is present
+6 times the word bei is present
+4 times the word irgendetwas is present
+1 times the word ungeduldig is present
+10 times the word seinem is present
+9 times the word seinen is present
+1 times the word blin is present
+1 times the word aufschlugen is present
+1 times the word linken is present
+1 times the word barthaarigen is present
+7 times the word seiner is present
+3 times the word seines is present
+1 times the word Jackenarmel is present
+5 times the word Doch is present
+1 times the word Miene
+Ist is present
+1 times the word Neffe is present
+1 times the word beinahe is present
+5 times the word mir is present
+1 times the word beilaufig is present
+1 times the word adieu is present
+1 times the word offenen is present
+1 times the word Mode is present
+1 times the word 
+Mrs is present
+1 times the word munter is present
+7 times the word fiel is present
+10 times the word denn is present
+1 times the word zerstort is present
+1 times the word gerichtet is present
+2 times the word stehen is present
+18 times the word Harry is present
+1 times the word Auftrag is present
+1 times the word Worte is present
+1 times the word Brummen is present
+1 times the word Wetter is present
+1 times the word Meinung
+Bis is present
+2 times the word Vielleicht is present
+1 times the word Sinnestauschung is present
+1 times the word Andernfalls is present
+1 times the word Maschine is present
+1 times the word Grunnings is present
+1 times the word letzte is present
+1 times the word schreienden is present
+1 times the word verstricken is present
+1 times the word Stiefeln is present
+1 times the word eingeschlafen is present
+1 times the word leben is present
+2 times the word viel is present
+7 times the word ganzen is present
+1 times the word Liebes is present
+1 times the word ganzes is present
+1 times the word Silvester is present
+1 times the word deuteten is present
+1 times the word gefallen is present
+1 times the word richtigen is present
+2 times the word aufgeregt is present
+1 times the word Dumbledore
+Selbst is present
+1 times the word wurde
+Ja is present
+6 times the word wird is present
+1 times the word erschien is present
+1 times the word aussah is present
+5 times the word wandte is present
+1 times the word eintreffen is present
+1 times the word kreuz is present
+1 times the word Minute is present
+1 times the word Fachleute is present
+1 times the word verfolgten is present
+6 times the word drauen is present
+1 times the word geschrieben
+Einen is present
+1 times the word Wehen is present
+1 times the word erloschen
+Nun is present
+1 times the word soeben is present
+1 times the word Laterne is present
+1 times the word taten is present
+1 times the word voller is present
+1 times the word lebt is present
+1 times the word suchen is present
+1 times the word aufgebracht is present
+1 times the word Straenecke is present
+1 times the word purpurroten is present
+2 times the word Lily is present
+1 times the word wutend is present
+1 times the word Ganze is present
+1 times the word Notiz is present
+1 times the word Nase
+Dumbledore is present
+12 times the word wurde is present
+2 times the word Stadt is present
+1 times the word rabenschwarzen is present
+1 times the word Londoner is present
+1 times the word spahte is present
+1 times the word wild is present
+1 times the word Einfach is present
+1 times the word auf
+Die is present
+1 times the word Sonnenaufgang is present
+1 times the word Nacht
+Wir is present
+2 times the word Konnte is present
+1 times the word Hagrids is present
+1 times the word gestort is present
+1 times the word entdecken is present
+1 times the word Leintucher is present
+7 times the word Kopf is present
+1 times the word Leintuchem is present
+2 times the word angewurzelt is present
+2 times the word bald is present
+1 times the word Deckel is present
+1 times the word uberleben
+17
+Wir is present
+2 times the word Ligusterwegs is present
+1 times the word Idee is present
+2 times the word Tasche is present
+1 times the word gedacht is present
+1 times the word angeschwirrt is present
+1 times the word Einen is present
+15 times the word Strae is present
+5 times the word Sternschnuppen is present
+1 times the word Yorkshire is present
+4 times the word plotzlich is present
+1 times the word Bescherung is present
+1 times the word Leintuchern is present
+1 times the word weg is present
+5 times the word wei is present
+1 times the word getan is present
+1 times the word gleich is present
+1 times the word leuchtete is present
+1 times the word Stecknadelkopfe is present
+1 times the word wolkenverhangenen is present
+2 times the word Ein is present
+1 times the word dennoch is present
+2 times the word nachts is present
+10 times the word sagen is present
+6 times the word Umhang is present
+1 times the word mutmaen is present
+2 times the word eben is present
+1 times the word werde
+Nur is present
+2 times the word zischte is present
+1 times the word aus
+Leintuchern
+Hagrid is present
+1 times the word versprochen is present
+1 times the word geradewegs is present
+5 times the word zwei is present
+7 times the word kleinen is present
+1 times the word stieg is present
+1 times the word kleiner is present
+1 times the word Mudigkeit is present
+2 times the word rasch is present
+1 times the word oben is present
+1 times the word Fleck is present
+1 times the word gereizt is present
+1 times the word rangelte is present
+2 times the word merkwurdige is present
+1 times the word langes is present
+2 times the word langen is present
+8 times the word hier is present
+1 times the word tadelloser is present
+1 times the word bereiteten is present
+1 times the word schnappte is present
+1 times the word aufgetaucht is present
+2 times the word erkennen is present
+1 times the word wolle is present
+1 times the word erhob is present
+33 times the word eine is present
+1 times the word wach is present
+1 times the word verwandt is present
+1 times the word schluchzte is present
+1 times the word Sir
+Keine is present
+2 times the word wecken is present
+1 times the word beginnt is present
+1 times the word aufdecken is present
+10 times the word Der is present
+1 times the word Lesebrille is present
+1 times the word sind
+Ich is present
+3 times the word Welt is present
+1 times the word Dem is present
+4 times the word Blick is present
+1 times the word geblieben is present
+1 times the word davor is present
+4 times the word Duweitschonwer is present
+4 times the word seit is present
+1 times the word Ted is present
+2 times the word Tee is present
+1 times the word besaen is present
+1 times the word zufolge is present
+1 times the word Warum
+Komisches is present
+1 times the word Duweitschonwen is present
+18 times the word sein is present
+1 times the word davon is present
+1 times the word Gewiss is present
+1 times the word Alle is present
+1 times the word Stunden is present
+4 times the word ins is present
+1 times the word 9
+hatte is present
+2 times the word Gestalten is present
+1 times the word nippte is present
+2 times the word Haus is present
+64 times the word sich is present
+1 times the word namlich is present
+2 times the word Nachbarn is present
+2 times the word blickten is present
+1 times the word Vergleich is present
+1 times the word U is present
+2 times the word flusterte is present
+3 times the word Jedenfalls is present
+1 times the word dusterer is present
+[134, 114, 96, 67, 64, 62, 58, 57, 57, 56, 51, 44, 44, 44, 44, 40, 38, 38, 36, 34, 33, 33, 31, 30, 29, 28, 27, 27, 26, 25, 25, 24, 23, 23, 22, 21, 21, 21, 21, 20, 20, 19, 18, 18, 17, 17, 16, 16, 16, 16, 16, 16, 15, 15, 14, 14, 14, 14, 13, 12, 12, 12, 12, 11, 11, 11, 11, 11, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 9, 9, 9, 9, 9, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1533
