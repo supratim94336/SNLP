@@ -13,7 +13,7 @@ of_lst_frequency = []
 of_lst_unique =[]
 of_lst = []
 
-tokens = brown.words(categories = 'romance')
+tokens = brown.words(categories='romance')
 
 # Lowecase the tokens
 for word in tokens:
